@@ -1,0 +1,8 @@
+# Ignore Python bytecode:
+*.py[co]
+
+db.*
+
+# Jetbrains
+.idea/
+.pycharm_helpers/
